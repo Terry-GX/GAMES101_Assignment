@@ -1,5 +1,5 @@
 # GAMES101_Assignment
 
-GAMES在线课程（现代计算机图形学入门）作业代码
+Assignment code for the online course (Introduction to Modern Computer Graphics).
 
-环境：Windows11 + Visual Studio 2017 + Eigen 3.4.0 + OpenCV 3.4.0
+Development environment：Windows11 + Visual Studio 2017 + Eigen 3.4.0 + OpenCV 3.4.0
