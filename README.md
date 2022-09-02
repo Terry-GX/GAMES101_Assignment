@@ -1,4 +1,4 @@
-# GAMES101_Assignment
+# GAMES101-Assignment
 
 Assignment code for the online course (GAMES101: Introduction to Modern Computer Graphics).
 
