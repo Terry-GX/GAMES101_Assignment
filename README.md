@@ -34,6 +34,8 @@ Development environment：Windows11 + Visual Studio 2017 + Eigen 3.4.0 + OpenCV 
 <img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_3/png/a3_4.png width=40%/>
 </div>
 
+
+
 <div align="center">
 <img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_3/png/a3_5.png width=40%/>
 </div>
@@ -47,4 +49,10 @@ Development environment：Windows11 + Visual Studio 2017 + Eigen 3.4.0 + OpenCV 
 
 <div align="center">
 <img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_4/4yellow.png width=40%/>
+</div>
+
+### `Assignment 5`$~~~~$ 光线与三角形相交
+
+<div align="center">
+<img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_5/A5_1.png width=60%/>
 </div>
