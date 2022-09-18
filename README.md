@@ -2,7 +2,12 @@
 
 Assignment codes of GAMES101: Introduction to Modern Computer Graphics.
 
-Development environment：Windows11 + Visual Studio 2017 + Eigen 3.4.0 + OpenCV 3.4.0
+Environment：Windows11 + Visual Studio 2017
+
+| Dependency     | Version |
+| ----------- | ----------- |
+| Eigen      | 3.4.0      |
+| OpenCV   | 3.4.0       |
 
 ### `Assignment 1`$~~~~$ 旋转与投影
 
