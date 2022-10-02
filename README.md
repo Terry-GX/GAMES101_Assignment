@@ -63,5 +63,5 @@ Environment：Windows11 + Visual Studio 2017
 ### `Assignment 6`$~~~~$ 加速结构
 
 <div align="center">
-<img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_6/6-1.png width=60%/>
+<img src=https://github.com/terry-xuan-gao/GAMES101_Assignment/blob/main/Assignment_6/6.png width=60%/>
 </div>
